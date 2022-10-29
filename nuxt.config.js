@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'port',
+    title: 'Websiite',
     htmlAttrs: {
       lang: 'en'
     },
@@ -12,7 +12,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: 'https://cdn.discordapp.com/attachments/943188689952063499/1035959762141069352/unknown.png' },
       { rel:"preconnect", href:"https://fonts.googleapis.com"},
       { rel:"preconnect", href:"https://fonts.gstatic.com", crossorigin:""},
       { href:"https://fonts.googleapis.com/css2?family=Mitr:wght@300&display=swap", rel:"stylesheet"},
